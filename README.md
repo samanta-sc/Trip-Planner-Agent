@@ -1,18 +1,29 @@
-## Trip Planner Agent
+## 🌍 Trip Planner Agent
 
-Plan a trip for any city wordwide with Real time data.
+Plan your dream trip to any city worldwide with real-time data ✈️🌆.
+This intelligent agent helps you make informed travel decisions by combining live information, smart planning, and cost estimates—all in one place.
 
 ---
 
-## Features
+## 🚀 Features
 
-1. Real time weather info
-2. Attraction & activity
-3. Hotel Cost
-4. Currency Conversion
-5. Itinerary Planning
-6. Total expense
-7. Generate a Summary
+- ✅ Real-Time Weather Info – Get up-to-date forecasts for your destination.
+- ✅ Attractions & Activities – Discover must-see spots and fun things to do.
+- ✅ Hotel Cost Estimation – Check average accommodation prices.
+- ✅ Currency Conversion – Convert your budget into local currency instantly.
+- ✅ Itinerary Planning – Create a personalized day-by-day schedule.
+- ✅ Total Expense Calculation – Estimate your overall trip cost.
+- ✅ Smart Summary Generation – Receive a clear, shareable summary of your trip.
+
+---
+
+## 🛠️ Tech Stack
+
+- Programming Language: Python 🐍(uv package)
+
+- APIs & Integrations: Weather API, Currency Exchange API, Tavily API
+
+- Frameworks/Libraries: LangGraph, Requests(FastAPI), Streamlit
 
 ---
 
@@ -52,3 +63,12 @@ streamlit run app.py
     <td><img align="left" src="resources/Screenshot (9).png" width=350 height=480></td>
   </tr>
  </table>
+
+ ---
+
+## 🎯 Use Cases
+- 🧳 Travelers looking for a quick, budget-friendly plan.
+
+- 🌎 Travel agencies exploring AI-powered assistants.
+
+- 💡 Showcasing integration of real-time APIs + AI planning.
