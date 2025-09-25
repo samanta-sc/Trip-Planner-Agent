@@ -55,12 +55,12 @@ streamlit run app.py
 
 <table>
   <tr>
-    <td>Chat PDF API</td>
-     <td>Answer from API</td>
+    <td>Trip Planner Agent Day-wise Plan</td>
+     <td>Trip Planner Agent Cost, Weather</td>
   </tr>
   <tr>
-    <td><img align="left" src="resources/Screenshot (22).png" width=350 height=480></td>
-    <td><img align="left" src="resources/Screenshot (23).png" width=350 height=480></td>
+    <td><img align="left" src="resources/Screenshot (24).png" width=350 height=480></td>
+    <td><img align="left" src="resources/Screenshot (25).png" width=350 height=480></td>
   </tr>
  </table>
 
