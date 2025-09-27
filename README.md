@@ -38,13 +38,17 @@ To set up the Trip Planner Agent locally, follow these steps:
 ```python
    cd Trip-Planner-Agent
 ```
-3. Install the required Python packages using pip:
+3. Install the required Python packages using uv:
 ```python
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 4. Set up environment variables:
   - Define the necessary environment variables such as database connection strings, API keys, etc.
-5. Run the Streamlit application:
+5. Expose the API
+```
+uvicorn main:app
+```
+6. Run the Streamlit application:
 ```
 streamlit run app.py
 ```
